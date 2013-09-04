@@ -1,0 +1,4 @@
+presscore
+=========
+
+Wordpress Theme PressCore
